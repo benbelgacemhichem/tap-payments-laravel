@@ -1,5 +1,5 @@
 {
-  "name": "groupedesign/tap-payments-laravel",
+  "name": "groupedesign/laravel-tap-payments",
   "description": "Tap Payment REST API package for Laravel",
   "license": "MIT",
   "authors": [
