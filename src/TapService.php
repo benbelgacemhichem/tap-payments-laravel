@@ -21,9 +21,9 @@ class TapService
 	 * @return mixed
 	 * @throws \GuzzleHttp\Exception\GuzzleException
 	 */
-	public function findCharge($id)
+	public function findCharge( $id )
 	{
-		$charge = new Charge($id);
+		$charge = new Charge( $id );
 
 		return $charge->find();
 	}

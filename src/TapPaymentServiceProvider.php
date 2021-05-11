@@ -3,6 +3,7 @@
 namespace Groupedesign\TapPayment;
 
 use Illuminate\Support\ServiceProvider;
+use Groupedesign\TapPayment\TapService;
 
 class TapPaymentServiceProvider extends ServiceProvider
 {
