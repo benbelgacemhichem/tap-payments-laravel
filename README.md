@@ -4,16 +4,16 @@ Laravel package for https://www.tap.company
 
 ## Installation
 
-Add `groupedesign/laravel-tap-payments` to your `composer.json`.
+Add `groupedesign/tap-payments-laravel` to your `composer.json`.
 ```
-"groupedesign/laravel-tap-payments": "dev-master"
+"groupedesign/tap-payments-laravel": "dev-master"
 ```
 
 Run `composer update` to pull down the latest version of package.
 
 OR simply run
 ```
-composer require "groupedesign/laravel-tap-payments"
+composer require "groupedesign/tap-payments-laravel"
 ```
 
 This package supports Laravel new Package Discovery.
